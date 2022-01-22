@@ -1,0 +1,1 @@
+Filecmp module in Python provides functions to compare files and directories. This module comes under Python’s standard utility modules. This module also consider the properties of files and directories for comparison in addition to data in them. filecmp.cmp () method in Python is used to compare two files.
